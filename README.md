@@ -11,4 +11,4 @@
 - Photo and video editing
 - Familiar with Node
 
-### ⚡ Fun fact: As a geek I'm also into board games and I train fencing
+### ⚡ I'm also into board games and I train fencing
