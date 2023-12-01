@@ -1,4 +1,4 @@
-![Banner](images/picGit.jpg)
+![Banner](images/picGitNC.jpg)
 <!--
 **cerovina/cerovina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
