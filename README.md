@@ -1,5 +1,4 @@
 ![Banner](images/picGitNC.jpg)
-## Front-End Developer
 
 ### 📫 How to reach me: cerovina1997@gmail.com
 
