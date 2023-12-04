@@ -1,7 +1,6 @@
 ![Banner](images/picGitNC.jpg)
+## Front-End Developer
 
-### 🔭 I’m currently job hunting
-### 🌱 Enjoying the process of learning Vue and React
 ### 📫 How to reach me: cerovina1997@gmail.com
 
 ### 💻 Skills:
