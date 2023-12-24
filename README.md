@@ -7,6 +7,6 @@
 - HTML, CSS
 - Git, GitHub
 - Photo and video editing
-- Familiar with Node
+- Familiar with Node and C#
 
 ### ⚡ I'm also into board games and I train fencing
