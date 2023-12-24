@@ -1,4 +1,4 @@
-![Banner](images/picGitNC.jpg)
+![Banner](images/picGitNC2.jpg)
 
 ### 📫 How to reach me: cerovina1997@gmail.com
 
