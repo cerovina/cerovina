@@ -3,7 +3,7 @@
 ### 📫 How to reach me: cerovina1997@gmail.com
 
 ### 💻 Skills:
-- JavaScript (Vue)
+- JavaScript (Vue and React)
 - HTML, CSS
 - Git, GitHub
 - Photo and video editing
