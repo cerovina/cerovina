@@ -1,4 +1,4 @@
-![Banner](images/ghghbck.jpg)
+![Banner](images/background2.jpg)
 
 ### 📫 How to reach me: cerovina1997@gmail.com
 
