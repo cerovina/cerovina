@@ -5,6 +5,6 @@
 ### 💻 Skills:
 - JavaScript
 - Vue and Vuex
-- Well versed in CSS
-- Git and GitHub
+- CSS
+- Git
 - Photo and video editing
