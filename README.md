@@ -8,5 +8,3 @@
 - Well versed in CSS
 - Git and GitHub
 - Photo and video editing
-
-#### ⚡ I'm also into board games and I train fencing
